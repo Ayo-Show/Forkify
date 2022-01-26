@@ -2,6 +2,9 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "Recipe application",
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
