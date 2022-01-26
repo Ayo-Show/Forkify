@@ -1,0 +1,25 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayo-Show/Forkify.git"
+  },
+  "author": "Ayo Sowunmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayo-Show/Forkify/issues"
+  },
+  "homepage": "https://github.com/Ayo-Show/Forkify#readme",
+  "devDependencies": {
+    "parcel": "2.0.0-beta.1",
+    "parcel-bundler": "^1.12.5",
+    "sass": "1.26.10"
+  }
+}
