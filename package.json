@@ -24,5 +24,10 @@
     "parcel": "2.0.0-beta.1",
     "parcel-bundler": "^1.12.5",
     "sass": "1.26.10"
+  },
+  "dependencies": {
+    "core-js": "^3.20.3",
+    "reg": "^1.6.15",
+    "regenerator-runtime": "^0.13.9"
   }
 }
